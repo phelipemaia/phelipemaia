@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Brazilian developer living abroad 😄 I've moved from the sunny Fortaleza to cold Kraków and now I'm based in London. I've been working specifically with Javascript for 13 years, but I also wrote few things in Java for some companies.
+I'm Brazilian developer living abroad 😄  I've moved from the sunny Fortaleza to cold Kraków and now I'm based in London. I've been working specifically with Javascript for 13 years, but I also wrote few things in Java and other languages.
+
+I like to research about user experience and understand their behaviour while interacting with the apps I create.
 
 - 🔭 I’m currently working on customer facing web apps and solutions with Identity Server for Shell Energy Retail.
 - 🌱 I’m currently learning about streaming process (Kafka, Spark), forecasting and data analysis. GoLang is something new that I'm trying to learn and functional programming is also another thing that I'm looking during my free time.
