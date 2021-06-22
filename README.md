@@ -4,8 +4,7 @@ I'm Brazilian developer living abroad 😄  I've moved from the sunny Fortaleza 
 
 I like to research about user experience and understand their behaviour while interacting with the apps I create.
 
-- 🔭 I’m currently working on customer facing web apps and solutions with Identity Server for Shell Energy Retail.
-- 🌱 I’m currently learning about streaming process (Kafka, Spark), forecasting and data analysis. GoLang is something new that I'm trying to learn and functional programming is the trend so also having a look.
+- 🔭 I’m currently working on customer products team for Financial Times, helping to build web apps.
 - 📫 How to reach me: [DM me](https://twitter.com/PhelipeMaia)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: as a Brazilian I like football (each country I've lived I choosed the wrong team, always relegated) and water sports. Living in Europe gave me the opportunity to travel to different countries and keep learning with all of cultural differences.
