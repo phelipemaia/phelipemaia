@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I'm Brazilian developer living abroad 😄  I've moved from the sunny Fortaleza to cold Kraków and now I'm based in London. I've been working specifically with Javascript for 13 years, but I also wrote few things in Java and other languages.
+I'm Brazilian developer living abroad 😄  I've moved from the sunny Fortaleza to cold Kraków and now I'm based in London. I've been working specifically with Javascript for 17 years, but I also wrote few things in Java and other languages.
 
-I like to research about user experience and understand their behaviour while interacting with the apps I create.
+I like to research about user experience and understand their behaviour while interacting with the apps I help to build.
 
-- 🔭 I’m currently working on customer products team for Financial Times, helping to build web apps.
-- 📫 How to reach me: [DM me](https://twitter.com/PhelipeMaia)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: as a Brazilian I like football (each country I've lived I choosed the wrong team, always relegated) and water sports. Living in Europe gave me the opportunity to travel to different countries and keep learning with all of cultural differences.
 
